@@ -7,3 +7,4 @@
 - 2026-08-07 11:19 - wip: rough draft of algorithm
 - 2026-08-07 12:06 - notes: outline weekend study plan
 - 2026-08-07 12:31 - fix: avoid stale cache reads
+- 2026-08-07 13:31 - chore: update linter rules
