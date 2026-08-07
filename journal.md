@@ -8,3 +8,4 @@
 - 2026-08-07 12:06 - notes: outline weekend study plan
 - 2026-08-07 12:31 - fix: avoid stale cache reads
 - 2026-08-07 13:31 - chore: update linter rules
+- 2026-08-07 14:08 - fix: handle missing keys gracefully
