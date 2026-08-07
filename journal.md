@@ -10,3 +10,4 @@
 - 2026-08-07 13:31 - chore: update linter rules
 - 2026-08-07 14:08 - fix: handle missing keys gracefully
 - 2026-08-07 15:22 - style: fix heading hierarchy
+- 2026-08-07 16:04 - feat: support multiple output formats
