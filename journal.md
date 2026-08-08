@@ -15,3 +15,4 @@
 - 2026-08-08 09:43 - chore: initialize repo structure
 - 2026-08-08 10:52 - notes: capture meeting takeaways
 - 2026-08-08 11:52 - style: shorten verbose conditionals
+- 2026-08-08 13:04 - notes: sketch system design diagram
