@@ -16,3 +16,4 @@
 - 2026-08-08 10:52 - notes: capture meeting takeaways
 - 2026-08-08 11:52 - style: shorten verbose conditionals
 - 2026-08-08 13:04 - notes: sketch system design diagram
+- 2026-08-08 13:59 - perf: reduce payload size
