@@ -13,3 +13,4 @@
 - 2026-08-07 16:04 - feat: support multiple output formats
 - 2026-08-07 17:19 - docs: clean up outdated examples
 - 2026-08-08 09:43 - chore: initialize repo structure
+- 2026-08-08 10:52 - notes: capture meeting takeaways
