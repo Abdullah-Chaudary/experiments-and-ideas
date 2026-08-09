@@ -23,3 +23,4 @@
 - 2026-08-09 10:28 - refactor: separate concerns in loader
 - 2026-08-09 11:43 - feat: build search filter builder
 - 2026-08-09 12:08 - feat: expose new utility function
+- 2026-08-09 13:28 - refactor: unify error handling paths
