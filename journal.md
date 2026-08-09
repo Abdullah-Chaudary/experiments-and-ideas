@@ -18,3 +18,4 @@
 - 2026-08-08 13:04 - notes: sketch system design diagram
 - 2026-08-08 13:59 - perf: reduce payload size
 - 2026-08-09 08:30 - wip: partial implementation of filter
+- 2026-08-09 09:08 - wip: mid-way through migration
