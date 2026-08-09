@@ -19,3 +19,4 @@
 - 2026-08-08 13:59 - perf: reduce payload size
 - 2026-08-09 08:30 - wip: partial implementation of filter
 - 2026-08-09 09:08 - wip: mid-way through migration
+- 2026-08-09 09:45 - feat: introduce event emitter
