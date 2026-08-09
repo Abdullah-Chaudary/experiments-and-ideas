@@ -17,3 +17,4 @@
 - 2026-08-08 11:52 - style: shorten verbose conditionals
 - 2026-08-08 13:04 - notes: sketch system design diagram
 - 2026-08-08 13:59 - perf: reduce payload size
+- 2026-08-09 08:30 - wip: partial implementation of filter
