@@ -20,3 +20,4 @@
 - 2026-08-09 08:30 - wip: partial implementation of filter
 - 2026-08-09 09:08 - wip: mid-way through migration
 - 2026-08-09 09:45 - feat: introduce event emitter
+- 2026-08-09 10:28 - refactor: separate concerns in loader
