@@ -28,3 +28,4 @@
 - 2026-08-09 15:05 - docs: link related topics
 - 2026-08-10 12:27 - refactor: reduce duplicated logic
 - 2026-08-10 12:51 - style: clean up trailing whitespace
+- 2026-08-10 13:16 - refactor: rename ambiguous variables
