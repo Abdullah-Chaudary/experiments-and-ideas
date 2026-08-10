@@ -26,3 +26,4 @@
 - 2026-08-09 13:28 - refactor: unify error handling paths
 - 2026-08-09 14:22 - docs: clean up outdated examples
 - 2026-08-09 15:05 - docs: link related topics
+- 2026-08-10 12:27 - refactor: reduce duplicated logic
