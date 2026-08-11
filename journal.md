@@ -38,3 +38,4 @@
 - 2026-08-11 12:56 - chore: rotate log files
 - 2026-08-11 13:23 - perf: lazy-load heavy modules
 - 2026-08-11 14:38 - build: split config into layers
+- 2026-08-11 15:49 - docs: rewrite getting-started guide
