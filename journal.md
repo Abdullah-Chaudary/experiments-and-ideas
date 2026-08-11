@@ -40,3 +40,4 @@
 - 2026-08-11 14:38 - build: split config into layers
 - 2026-08-11 15:49 - docs: rewrite getting-started guide
 - 2026-08-11 16:39 - style: unify trailing commas
+- 2026-08-11 17:16 - test: snapshot serializer output
