@@ -39,3 +39,4 @@
 - 2026-08-11 13:23 - perf: lazy-load heavy modules
 - 2026-08-11 14:38 - build: split config into layers
 - 2026-08-11 15:49 - docs: rewrite getting-started guide
+- 2026-08-11 16:39 - style: unify trailing commas
