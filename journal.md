@@ -34,3 +34,4 @@
 - 2026-08-10 15:32 - fix: clamp values to valid bounds
 - 2026-08-11 11:33 - test: verify rollback on failure
 - 2026-08-11 12:12 - notes: outline weekend study plan
+- 2026-08-11 12:32 - chore: add .gitignore entries
