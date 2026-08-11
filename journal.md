@@ -32,3 +32,4 @@
 - 2026-08-10 13:45 - chore: bump dependency versions
 - 2026-08-10 14:46 - notes: draft interview cheat sheet
 - 2026-08-10 15:32 - fix: clamp values to valid bounds
+- 2026-08-11 11:33 - test: verify rollback on failure
