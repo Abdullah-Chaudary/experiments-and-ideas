@@ -37,3 +37,4 @@
 - 2026-08-11 12:32 - chore: add .gitignore entries
 - 2026-08-11 12:56 - chore: rotate log files
 - 2026-08-11 13:23 - perf: lazy-load heavy modules
+- 2026-08-11 14:38 - build: split config into layers
