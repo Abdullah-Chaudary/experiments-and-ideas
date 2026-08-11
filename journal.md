@@ -35,3 +35,4 @@
 - 2026-08-11 11:33 - test: verify rollback on failure
 - 2026-08-11 12:12 - notes: outline weekend study plan
 - 2026-08-11 12:32 - chore: add .gitignore entries
+- 2026-08-11 12:56 - chore: rotate log files
