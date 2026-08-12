@@ -47,3 +47,4 @@
 - 2026-08-12 12:00 - chore: update license header
 - 2026-08-12 12:52 - docs: revise intro paragraph
 - 2026-08-12 13:20 - notes: record reading list update
+- 2026-08-12 13:52 - fix: clamp values to valid bounds
