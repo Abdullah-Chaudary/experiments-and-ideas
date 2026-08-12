@@ -43,3 +43,4 @@
 - 2026-08-11 17:16 - test: snapshot serializer output
 - 2026-08-11 18:09 - chore: final cleanup pass
 - 2026-08-12 10:34 - notes: plan next sprint backlog
+- 2026-08-12 11:08 - feat: implement rate limiter
