@@ -49,3 +49,4 @@
 - 2026-08-12 13:20 - notes: record reading list update
 - 2026-08-12 13:52 - fix: clamp values to valid bounds
 - 2026-08-13 09:52 - build: cache intermediate artifacts
+- 2026-08-13 10:13 - feat: add batch processing mode
