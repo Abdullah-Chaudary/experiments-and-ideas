@@ -57,3 +57,4 @@
 - 2026-08-14 12:46 - style: align table columns
 - 2026-08-14 13:38 - notes: document API endpoint table
 - 2026-08-14 14:33 - feat: add file watcher
+- 2026-08-14 15:02 - docs: rewrite getting-started guide
