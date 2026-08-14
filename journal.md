@@ -51,3 +51,4 @@
 - 2026-08-13 09:52 - build: cache intermediate artifacts
 - 2026-08-13 10:13 - feat: add batch processing mode
 - 2026-08-13 11:17 - fix: correct timestamp formatting
+- 2026-08-14 09:51 - docs: link related topics
