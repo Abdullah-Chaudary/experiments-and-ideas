@@ -54,3 +54,4 @@
 - 2026-08-14 09:51 - docs: link related topics
 - 2026-08-14 10:43 - security: sanitize user input
 - 2026-08-14 11:33 - wip: commit checkpoint before revert
+- 2026-08-14 12:46 - style: align table columns
