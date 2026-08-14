@@ -52,3 +52,4 @@
 - 2026-08-13 10:13 - feat: add batch processing mode
 - 2026-08-13 11:17 - fix: correct timestamp formatting
 - 2026-08-14 09:51 - docs: link related topics
+- 2026-08-14 10:43 - security: sanitize user input
