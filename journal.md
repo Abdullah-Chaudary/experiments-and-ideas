@@ -59,3 +59,4 @@
 - 2026-08-14 14:33 - feat: add file watcher
 - 2026-08-14 15:02 - docs: rewrite getting-started guide
 - 2026-08-16 13:43 - refactor: use config factory pattern
+- 2026-08-16 14:07 - refactor: simplify nested conditionals
