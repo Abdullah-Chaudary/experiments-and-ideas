@@ -61,3 +61,4 @@
 - 2026-08-16 13:43 - refactor: use config factory pattern
 - 2026-08-16 14:07 - refactor: simplify nested conditionals
 - 2026-08-16 15:24 - feat: expose new utility function
+- 2026-08-16 16:08 - refactor: reduce duplicated logic
