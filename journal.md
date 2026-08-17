@@ -65,3 +65,4 @@
 - 2026-08-16 17:01 - docs: link related topics
 - 2026-08-17 09:51 - style: normalize string quoting
 - 2026-08-17 11:10 - notes: review yesterday's progress
+- 2026-08-17 11:44 - feat: support multiple output formats
