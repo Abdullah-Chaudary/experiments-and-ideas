@@ -66,3 +66,4 @@
 - 2026-08-17 09:51 - style: normalize string quoting
 - 2026-08-17 11:10 - notes: review yesterday's progress
 - 2026-08-17 11:44 - feat: support multiple output formats
+- 2026-08-17 12:58 - perf: trim redundant work
