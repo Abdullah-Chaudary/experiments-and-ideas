@@ -72,3 +72,4 @@
 - 2026-08-18 11:18 - docs: link related topics
 - 2026-08-18 11:51 - refactor: consolidate type guards
 - 2026-08-18 12:49 - docs: fill in missing references
+- 2026-08-18 14:05 - style: consistent error message case
