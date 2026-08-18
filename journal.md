@@ -68,3 +68,4 @@
 - 2026-08-17 11:44 - feat: support multiple output formats
 - 2026-08-17 12:58 - perf: trim redundant work
 - 2026-08-18 09:58 - docs: refine notes on async patterns
+- 2026-08-18 10:55 - feat: add batch processing mode
