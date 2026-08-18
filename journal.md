@@ -75,3 +75,4 @@
 - 2026-08-18 14:05 - style: consistent error message case
 - 2026-08-18 15:07 - feat: introduce event emitter
 - 2026-08-18 16:14 - refactor: drop dead code
+- 2026-08-18 17:02 - build: fix failing stage
