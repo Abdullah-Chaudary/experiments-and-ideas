@@ -69,3 +69,4 @@
 - 2026-08-17 12:58 - perf: trim redundant work
 - 2026-08-18 09:58 - docs: refine notes on async patterns
 - 2026-08-18 10:55 - feat: add batch processing mode
+- 2026-08-18 11:18 - docs: link related topics
