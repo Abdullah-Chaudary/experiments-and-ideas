@@ -80,3 +80,4 @@
 - 2026-08-19 14:09 - style: sort imports alphabetically
 - 2026-08-19 14:37 - fix: handle missing keys gracefully
 - 2026-08-19 15:16 - style: standardize spacing
+- 2026-08-19 16:07 - test: cover empty-input scenarios
