@@ -87,3 +87,4 @@
 - 2026-08-20 14:06 - chore: update editorconfig
 - 2026-08-20 15:06 - fix: restore missing import
 - 2026-08-20 15:29 - refactor: tidy up module boundaries
+- 2026-08-20 16:42 - test: assert stable ordering
