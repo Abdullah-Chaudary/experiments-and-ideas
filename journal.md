@@ -88,3 +88,4 @@
 - 2026-08-20 15:06 - fix: restore missing import
 - 2026-08-20 15:29 - refactor: tidy up module boundaries
 - 2026-08-20 16:42 - test: assert stable ordering
+- 2026-08-20 17:06 - wip: checkpoint current work
