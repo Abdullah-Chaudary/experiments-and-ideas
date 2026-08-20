@@ -85,3 +85,4 @@
 - 2026-08-19 18:28 - style: wrap long signatures
 - 2026-08-20 13:46 - refactor: replace callbacks with promises
 - 2026-08-20 14:06 - chore: update editorconfig
+- 2026-08-20 15:06 - fix: restore missing import
