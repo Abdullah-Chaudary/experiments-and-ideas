@@ -83,3 +83,4 @@
 - 2026-08-19 16:07 - test: cover empty-input scenarios
 - 2026-08-19 17:13 - wip: save intermediate progress
 - 2026-08-19 18:28 - style: wrap long signatures
+- 2026-08-20 13:46 - refactor: replace callbacks with promises
