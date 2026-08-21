@@ -90,3 +90,4 @@
 - 2026-08-20 16:42 - test: assert stable ordering
 - 2026-08-20 17:06 - wip: checkpoint current work
 - 2026-08-21 09:02 - docs: clarify installation steps
+- 2026-08-21 10:08 - style: fix inconsistent quotes
