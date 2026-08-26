@@ -95,3 +95,4 @@
 - 2026-08-23 10:24 - test: assert error messages
 - 2026-08-26 11:56 - refactor: rename module for clarity
 - 2026-08-26 12:28 - chore: refresh lockfile
+- 2026-08-26 13:48 - fix: resolve null pointer on empty input
