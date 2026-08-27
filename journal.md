@@ -101,3 +101,4 @@
 - 2026-08-27 20:57 - feat: add graceful shutdown
 - 2026-08-27 22:16 - chore: rotate log files
 - 2026-08-27 22:37 - security: tighten file permissions
+- 2026-08-27 23:51 - notes: log experiment results
