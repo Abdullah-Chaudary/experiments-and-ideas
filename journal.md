@@ -98,3 +98,4 @@
 - 2026-08-26 13:48 - fix: resolve null pointer on empty input
 - 2026-08-27 19:32 - test: snapshot serializer output
 - 2026-08-27 20:01 - feat: introduce event emitter
+- 2026-08-27 20:57 - feat: add graceful shutdown
