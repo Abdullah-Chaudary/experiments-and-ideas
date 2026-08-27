@@ -96,3 +96,4 @@
 - 2026-08-26 11:56 - refactor: rename module for clarity
 - 2026-08-26 12:28 - chore: refresh lockfile
 - 2026-08-26 13:48 - fix: resolve null pointer on empty input
+- 2026-08-27 19:32 - test: snapshot serializer output
