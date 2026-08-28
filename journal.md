@@ -105,3 +105,4 @@
 - 2026-08-28 00:36 - refactor: separate concerns in loader
 - 2026-08-28 01:29 - wip: mid-way through migration
 - 2026-08-28 02:01 - feat: expose new utility function
+- 2026-08-28 18:16 - security: tighten file permissions
