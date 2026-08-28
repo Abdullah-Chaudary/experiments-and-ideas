@@ -106,3 +106,4 @@
 - 2026-08-28 01:29 - wip: mid-way through migration
 - 2026-08-28 02:01 - feat: expose new utility function
 - 2026-08-28 18:16 - security: tighten file permissions
+- 2026-08-28 19:22 - refactor: consolidate type guards
