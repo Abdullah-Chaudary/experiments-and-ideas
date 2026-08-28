@@ -110,3 +110,4 @@
 - 2026-08-28 20:24 - refactor: reduce duplicated logic
 - 2026-08-28 21:09 - docs: rewrite getting-started guide
 - 2026-08-28 21:54 - refactor: simplify branching logic
+- 2026-08-28 22:45 - refactor: extract shared helper
