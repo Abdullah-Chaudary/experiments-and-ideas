@@ -102,3 +102,4 @@
 - 2026-08-27 22:16 - chore: rotate log files
 - 2026-08-27 22:37 - security: tighten file permissions
 - 2026-08-27 23:51 - notes: log experiment results
+- 2026-08-28 00:36 - refactor: separate concerns in loader
