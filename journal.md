@@ -107,3 +107,4 @@
 - 2026-08-28 02:01 - feat: expose new utility function
 - 2026-08-28 18:16 - security: tighten file permissions
 - 2026-08-28 19:22 - refactor: consolidate type guards
+- 2026-08-28 20:24 - refactor: reduce duplicated logic
