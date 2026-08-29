@@ -115,3 +115,4 @@
 - 2026-08-29 00:01 - notes: document API endpoint table
 - 2026-08-29 00:33 - fix: close resource leak on error
 - 2026-08-29 01:26 - docs: annotate key design decisions
+- 2026-08-29 09:46 - security: tighten file permissions
