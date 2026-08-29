@@ -122,3 +122,4 @@
 - 2026-08-29 12:22 - refactor: simplify branching logic
 - 2026-08-29 13:06 - refactor: extract shared helper
 - 2026-08-29 14:09 - wip: snapshot before refactor
+- 2026-08-29 14:58 - notes: document API endpoint table
