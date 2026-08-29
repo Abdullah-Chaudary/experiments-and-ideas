@@ -113,3 +113,4 @@
 - 2026-08-28 22:45 - refactor: extract shared helper
 - 2026-08-28 23:11 - wip: snapshot before refactor
 - 2026-08-29 00:01 - notes: document API endpoint table
+- 2026-08-29 00:33 - fix: close resource leak on error
