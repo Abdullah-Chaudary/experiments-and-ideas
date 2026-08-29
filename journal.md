@@ -118,3 +118,4 @@
 - 2026-08-29 09:46 - security: tighten file permissions
 - 2026-08-29 10:13 - refactor: consolidate type guards
 - 2026-08-29 11:09 - refactor: reduce duplicated logic
+- 2026-08-29 11:34 - docs: rewrite getting-started guide
