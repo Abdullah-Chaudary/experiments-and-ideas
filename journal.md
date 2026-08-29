@@ -121,3 +121,4 @@
 - 2026-08-29 11:34 - docs: rewrite getting-started guide
 - 2026-08-29 12:22 - refactor: simplify branching logic
 - 2026-08-29 13:06 - refactor: extract shared helper
+- 2026-08-29 14:09 - wip: snapshot before refactor
