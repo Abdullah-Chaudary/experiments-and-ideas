@@ -133,3 +133,4 @@
 - 2026-08-31 18:05 - wip: checkpoint current work
 - 2026-08-31 18:26 - style: standardize spacing
 - 2026-08-31 19:13 - feat: add batch processing mode
+- 2026-08-31 20:32 - test: confirm sorting is stable
