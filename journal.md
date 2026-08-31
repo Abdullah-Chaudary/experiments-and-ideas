@@ -132,3 +132,4 @@
 - 2026-08-31 17:09 - docs: record debugging session notes
 - 2026-08-31 18:05 - wip: checkpoint current work
 - 2026-08-31 18:26 - style: standardize spacing
+- 2026-08-31 19:13 - feat: add batch processing mode
