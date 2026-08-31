@@ -128,3 +128,4 @@
 - 2026-08-31 14:11 - notes: record reading list update
 - 2026-08-31 14:32 - refactor: split large function into parts
 - 2026-08-31 15:40 - refactor: extract validation into module
+- 2026-08-31 16:25 - security: tighten file permissions
