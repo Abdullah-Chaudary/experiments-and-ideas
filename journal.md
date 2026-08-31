@@ -124,3 +124,4 @@
 - 2026-08-29 14:09 - wip: snapshot before refactor
 - 2026-08-29 14:58 - notes: document API endpoint table
 - 2026-08-29 16:12 - fix: close resource leak on error
+- 2026-08-31 13:24 - notes: capture debugging checklist
