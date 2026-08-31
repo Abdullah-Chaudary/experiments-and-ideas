@@ -126,3 +126,4 @@
 - 2026-08-29 16:12 - fix: close resource leak on error
 - 2026-08-31 13:24 - notes: capture debugging checklist
 - 2026-08-31 14:11 - notes: record reading list update
+- 2026-08-31 14:32 - refactor: split large function into parts
