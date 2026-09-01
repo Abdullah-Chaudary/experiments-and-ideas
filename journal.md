@@ -138,3 +138,4 @@
 - 2026-09-01 09:27 - feat: add template rendering
 - 2026-09-01 09:53 - test: mock external service calls
 - 2026-09-01 10:38 - docs: add daily learning notes
+- 2026-09-01 11:42 - docs: draft chapter on error handling
