@@ -135,3 +135,4 @@
 - 2026-08-31 19:13 - feat: add batch processing mode
 - 2026-08-31 20:32 - test: confirm sorting is stable
 - 2026-09-01 08:35 - security: sanitize user input
+- 2026-09-01 09:27 - feat: add template rendering
