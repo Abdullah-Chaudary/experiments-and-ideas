@@ -136,3 +136,4 @@
 - 2026-08-31 20:32 - test: confirm sorting is stable
 - 2026-09-01 08:35 - security: sanitize user input
 - 2026-09-01 09:27 - feat: add template rendering
+- 2026-09-01 09:53 - test: mock external service calls
