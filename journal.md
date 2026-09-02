@@ -142,3 +142,4 @@
 - 2026-09-01 12:58 - fix: correct timestamp formatting
 - 2026-09-02 12:20 - docs: add daily learning notes
 - 2026-09-02 13:21 - chore: sync package metadata
+- 2026-09-02 14:39 - security: tighten file permissions
