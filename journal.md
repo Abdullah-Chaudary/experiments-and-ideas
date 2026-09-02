@@ -141,3 +141,4 @@
 - 2026-09-01 11:42 - docs: draft chapter on error handling
 - 2026-09-01 12:58 - fix: correct timestamp formatting
 - 2026-09-02 12:20 - docs: add daily learning notes
+- 2026-09-02 13:21 - chore: sync package metadata
