@@ -143,3 +143,4 @@
 - 2026-09-02 12:20 - docs: add daily learning notes
 - 2026-09-02 13:21 - chore: sync package metadata
 - 2026-09-02 14:39 - security: tighten file permissions
+- 2026-09-02 15:35 - fix: reset state between runs
