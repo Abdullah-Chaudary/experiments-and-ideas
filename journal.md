@@ -150,3 +150,4 @@
 - 2026-09-02 18:36 - test: verify rollback on failure
 - 2026-09-03 13:00 - notes: review yesterday's progress
 - 2026-09-03 13:45 - docs: annotate key design decisions
+- 2026-09-03 14:48 - security: restrict CORS origins
