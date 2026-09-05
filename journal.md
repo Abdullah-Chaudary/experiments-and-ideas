@@ -157,3 +157,4 @@
 - 2026-09-05 08:06 - fix: close resource leak on error
 - 2026-09-05 08:54 - perf: lazy-load heavy modules
 - 2026-09-05 09:37 - fix: normalize inconsistent line endings
+- 2026-09-05 10:36 - style: sort imports alphabetically
