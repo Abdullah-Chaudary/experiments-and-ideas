@@ -156,3 +156,4 @@
 - 2026-09-04 10:05 - notes: document API endpoint table
 - 2026-09-05 08:06 - fix: close resource leak on error
 - 2026-09-05 08:54 - perf: lazy-load heavy modules
+- 2026-09-05 09:37 - fix: normalize inconsistent line endings
