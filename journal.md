@@ -155,3 +155,4 @@
 - 2026-09-04 09:18 - docs: refine notes on async patterns
 - 2026-09-04 10:05 - notes: document API endpoint table
 - 2026-09-05 08:06 - fix: close resource leak on error
+- 2026-09-05 08:54 - perf: lazy-load heavy modules
