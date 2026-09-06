@@ -160,3 +160,4 @@
 - 2026-09-05 10:36 - style: sort imports alphabetically
 - 2026-09-06 11:48 - docs: link related topics
 - 2026-09-06 12:28 - style: group related statements
+- 2026-09-06 12:55 - refactor: split large function into parts
