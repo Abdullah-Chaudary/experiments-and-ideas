@@ -159,3 +159,4 @@
 - 2026-09-05 09:37 - fix: normalize inconsistent line endings
 - 2026-09-05 10:36 - style: sort imports alphabetically
 - 2026-09-06 11:48 - docs: link related topics
+- 2026-09-06 12:28 - style: group related statements
