@@ -163,3 +163,4 @@
 - 2026-09-06 12:55 - refactor: split large function into parts
 - 2026-09-07 08:17 - chore: archive old notes
 - 2026-09-07 08:44 - fix: handle timezone edge case
+- 2026-09-07 09:56 - refactor: extract shared helper
