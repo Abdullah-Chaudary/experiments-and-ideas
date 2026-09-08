@@ -173,3 +173,4 @@
 - 2026-09-08 10:37 - build: add reproducible build script
 - 2026-09-08 11:15 - build: parallelize build steps
 - 2026-09-08 12:35 - test: assert stable ordering
+- 2026-09-08 13:15 - docs: reorganize topic index
