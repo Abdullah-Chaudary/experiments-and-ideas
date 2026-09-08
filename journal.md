@@ -170,3 +170,4 @@
 - 2026-09-07 13:16 - style: group related statements
 - 2026-09-07 13:58 - fix: correct timestamp formatting
 - 2026-09-07 15:00 - style: align table columns
+- 2026-09-08 10:37 - build: add reproducible build script
