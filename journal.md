@@ -180,3 +180,4 @@
 - 2026-09-08 16:21 - wip: save intermediate progress
 - 2026-09-08 17:33 - wip: snapshot before refactor
 - 2026-09-08 18:37 - chore: update local dev scripts
+- 2026-09-08 19:50 - notes: plan next sprint backlog
