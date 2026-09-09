@@ -189,3 +189,4 @@
 - 2026-09-09 16:47 - chore: consolidate config files
 - 2026-09-09 17:23 - refactor: tidy up module boundaries
 - 2026-09-09 18:31 - refactor: use config factory pattern
+- 2026-09-09 19:38 - perf: avoid full array scans
