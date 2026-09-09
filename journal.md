@@ -182,3 +182,4 @@
 - 2026-09-08 18:37 - chore: update local dev scripts
 - 2026-09-08 19:50 - notes: plan next sprint backlog
 - 2026-09-09 11:45 - feat: add graceful shutdown
+- 2026-09-09 12:45 - notes: draft interview cheat sheet
