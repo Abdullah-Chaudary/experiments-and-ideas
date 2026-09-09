@@ -186,3 +186,4 @@
 - 2026-09-09 13:52 - feat: implement retry logic
 - 2026-09-09 14:45 - fix: detect interrupted writes
 - 2026-09-09 15:33 - feat: implement incremental backups
+- 2026-09-09 16:47 - chore: consolidate config files
