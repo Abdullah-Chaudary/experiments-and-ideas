@@ -188,3 +188,4 @@
 - 2026-09-09 15:33 - feat: implement incremental backups
 - 2026-09-09 16:47 - chore: consolidate config files
 - 2026-09-09 17:23 - refactor: tidy up module boundaries
+- 2026-09-09 18:31 - refactor: use config factory pattern
