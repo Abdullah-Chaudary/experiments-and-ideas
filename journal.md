@@ -191,3 +191,4 @@
 - 2026-09-09 18:31 - refactor: use config factory pattern
 - 2026-09-09 19:38 - perf: avoid full array scans
 - 2026-09-11 12:24 - fix: prevent double submission
+- 2026-09-11 13:22 - fix: reset state between runs
