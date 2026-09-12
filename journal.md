@@ -196,3 +196,4 @@
 - 2026-09-11 14:36 - feat: add settings persistence
 - 2026-09-12 08:42 - perf: preallocate buffers
 - 2026-09-12 09:12 - docs: polish changelog entries
+- 2026-09-12 10:04 - fix: skip empty files during scan
