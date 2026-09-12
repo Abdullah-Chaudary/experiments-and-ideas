@@ -194,3 +194,4 @@
 - 2026-09-11 13:22 - fix: reset state between runs
 - 2026-09-11 13:57 - test: exercise large payloads
 - 2026-09-11 14:36 - feat: add settings persistence
+- 2026-09-12 08:42 - perf: preallocate buffers
