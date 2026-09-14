@@ -198,3 +198,4 @@
 - 2026-09-12 09:12 - docs: polish changelog entries
 - 2026-09-12 10:04 - fix: skip empty files during scan
 - 2026-09-13 13:49 - style: unify list punctuation
+- 2026-09-14 12:12 - security: restrict CORS origins
