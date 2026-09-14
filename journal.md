@@ -200,3 +200,4 @@
 - 2026-09-13 13:49 - style: unify list punctuation
 - 2026-09-14 12:12 - security: restrict CORS origins
 - 2026-09-14 13:23 - test: add unit tests for parser
+- 2026-09-14 14:01 - fix: retry failed HTTP requests
