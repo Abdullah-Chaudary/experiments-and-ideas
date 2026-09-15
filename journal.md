@@ -206,3 +206,4 @@
 - 2026-09-14 17:41 - notes: compare two library approaches
 - 2026-09-15 08:54 - feat: build search filter builder
 - 2026-09-15 09:26 - fix: resolve null pointer on empty input
+- 2026-09-15 10:34 - refactor: move constants to config
