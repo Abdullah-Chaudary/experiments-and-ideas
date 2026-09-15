@@ -204,3 +204,4 @@
 - 2026-09-14 15:20 - test: validate output format
 - 2026-09-14 16:28 - wip: park work in progress
 - 2026-09-14 17:41 - notes: compare two library approaches
+- 2026-09-15 08:54 - feat: build search filter builder
