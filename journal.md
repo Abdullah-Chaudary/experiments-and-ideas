@@ -215,3 +215,4 @@
 - 2026-09-17 14:19 - notes: outline weekend study plan
 - 2026-09-17 14:39 - test: confirm sorting is stable
 - 2026-09-17 15:40 - fix: correct regex for trailing spaces
+- 2026-09-17 16:21 - chore: update license header
