@@ -214,3 +214,4 @@
 - 2026-09-17 13:11 - refactor: move constants to config
 - 2026-09-17 14:19 - notes: outline weekend study plan
 - 2026-09-17 14:39 - test: confirm sorting is stable
+- 2026-09-17 15:40 - fix: correct regex for trailing spaces
