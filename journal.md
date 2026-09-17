@@ -211,3 +211,4 @@
 - 2026-09-15 11:54 - style: convert tabs to spaces
 - 2026-09-15 12:18 - style: unify trailing commas
 - 2026-09-15 12:39 - fix: correct regex for trailing spaces
+- 2026-09-17 13:11 - refactor: move constants to config
