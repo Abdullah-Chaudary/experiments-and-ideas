@@ -216,3 +216,4 @@
 - 2026-09-17 14:39 - test: confirm sorting is stable
 - 2026-09-17 15:40 - fix: correct regex for trailing spaces
 - 2026-09-17 16:21 - chore: update license header
+- 2026-09-17 16:50 - perf: lazy-load heavy modules
