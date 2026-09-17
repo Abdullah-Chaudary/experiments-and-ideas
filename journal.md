@@ -212,3 +212,4 @@
 - 2026-09-15 12:18 - style: unify trailing commas
 - 2026-09-15 12:39 - fix: correct regex for trailing spaces
 - 2026-09-17 13:11 - refactor: move constants to config
+- 2026-09-17 14:19 - notes: outline weekend study plan
