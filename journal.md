@@ -222,3 +222,4 @@
 - 2026-09-17 19:24 - docs: add daily learning notes
 - 2026-09-18 10:12 - docs: summarize weekly review
 - 2026-09-18 11:13 - style: align table columns
+- 2026-09-18 12:31 - feat: build search filter builder
