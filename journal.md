@@ -220,3 +220,4 @@
 - 2026-09-17 17:44 - fix: avoid stale cache reads
 - 2026-09-17 18:20 - chore: bump base image tag
 - 2026-09-17 19:24 - docs: add daily learning notes
+- 2026-09-18 10:12 - docs: summarize weekly review
