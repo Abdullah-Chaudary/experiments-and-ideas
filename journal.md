@@ -228,3 +228,4 @@
 - 2026-09-19 14:18 - feat: add config validation helper
 - 2026-09-19 15:18 - notes: sketch system design diagram
 - 2026-09-19 15:43 - chore: bump dependency versions
+- 2026-09-19 16:08 - style: consistent error message case
