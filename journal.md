@@ -224,3 +224,4 @@
 - 2026-09-18 11:13 - style: align table columns
 - 2026-09-18 12:31 - feat: build search filter builder
 - 2026-09-19 12:42 - docs: draft chapter on error handling
+- 2026-09-19 13:54 - feat: add first-pass validation
