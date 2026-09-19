@@ -223,3 +223,4 @@
 - 2026-09-18 10:12 - docs: summarize weekly review
 - 2026-09-18 11:13 - style: align table columns
 - 2026-09-18 12:31 - feat: build search filter builder
+- 2026-09-19 12:42 - docs: draft chapter on error handling
