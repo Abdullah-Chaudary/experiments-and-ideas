@@ -227,3 +227,4 @@
 - 2026-09-19 13:54 - feat: add first-pass validation
 - 2026-09-19 14:18 - feat: add config validation helper
 - 2026-09-19 15:18 - notes: sketch system design diagram
+- 2026-09-19 15:43 - chore: bump dependency versions
