@@ -225,3 +225,4 @@
 - 2026-09-18 12:31 - feat: build search filter builder
 - 2026-09-19 12:42 - docs: draft chapter on error handling
 - 2026-09-19 13:54 - feat: add first-pass validation
+- 2026-09-19 14:18 - feat: add config validation helper
