@@ -231,3 +231,4 @@
 - 2026-09-19 16:08 - style: consistent error message case
 - 2026-09-19 17:01 - chore: refresh CI cache key
 - 2026-09-20 12:22 - refactor: centralize timestamp logic
+- 2026-09-20 13:08 - chore: tidy workspace settings
