@@ -234,3 +234,4 @@
 - 2026-09-20 13:08 - chore: tidy workspace settings
 - 2026-09-20 13:41 - refactor: reorder functions logically
 - 2026-09-21 12:42 - refactor: rename module for clarity
+- 2026-09-21 14:00 - style: adjust naming to snake_case
