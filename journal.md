@@ -237,3 +237,4 @@
 - 2026-09-21 14:00 - style: adjust naming to snake_case
 - 2026-09-21 14:27 - fix: fix broken anchor links
 - 2026-09-22 12:06 - fix: fix broken anchor links
+- 2026-09-22 12:45 - notes: summarize conference talk
