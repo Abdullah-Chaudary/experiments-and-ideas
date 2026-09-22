@@ -244,3 +244,4 @@
 - 2026-09-22 16:41 - feat: support env-based config
 - 2026-09-22 17:35 - style: convert tabs to spaces
 - 2026-09-22 18:30 - wip: partial implementation of filter
+- 2026-09-22 18:54 - wip: rough draft of algorithm
