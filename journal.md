@@ -242,3 +242,4 @@
 - 2026-09-22 14:57 - feat: add first-pass validation
 - 2026-09-22 15:40 - feat: log structured events
 - 2026-09-22 16:41 - feat: support env-based config
+- 2026-09-22 17:35 - style: convert tabs to spaces
