@@ -241,3 +241,4 @@
 - 2026-09-22 13:54 - chore: archive old notes
 - 2026-09-22 14:57 - feat: add first-pass validation
 - 2026-09-22 15:40 - feat: log structured events
+- 2026-09-22 16:41 - feat: support env-based config
