@@ -246,3 +246,4 @@
 - 2026-09-22 18:30 - wip: partial implementation of filter
 - 2026-09-22 18:54 - wip: rough draft of algorithm
 - 2026-09-22 19:37 - docs: polish changelog entries
+- 2026-09-24 09:40 - style: wrap long signatures
