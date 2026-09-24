@@ -248,3 +248,4 @@
 - 2026-09-22 19:37 - docs: polish changelog entries
 - 2026-09-24 09:40 - style: wrap long signatures
 - 2026-09-24 10:16 - docs: record debugging session notes
+- 2026-09-24 11:10 - style: tidy blank lines
