@@ -253,3 +253,4 @@
 - 2026-09-25 11:19 - test: add property-based checks
 - 2026-09-25 12:21 - feat: introduce event emitter
 - 2026-09-25 13:23 - feat: implement session restore
+- 2026-09-25 13:52 - feat: support env-based config
