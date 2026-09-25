@@ -255,3 +255,4 @@
 - 2026-09-25 13:23 - feat: implement session restore
 - 2026-09-25 13:52 - feat: support env-based config
 - 2026-09-25 14:52 - refactor: reorder functions logically
+- 2026-09-25 15:15 - refactor: drop dead code
