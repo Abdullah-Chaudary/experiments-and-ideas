@@ -250,3 +250,4 @@
 - 2026-09-24 10:16 - docs: record debugging session notes
 - 2026-09-24 11:10 - style: tidy blank lines
 - 2026-09-25 10:33 - style: align chained calls
+- 2026-09-25 11:19 - test: add property-based checks
