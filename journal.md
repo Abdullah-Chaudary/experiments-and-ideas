@@ -257,3 +257,4 @@
 - 2026-09-25 14:52 - refactor: reorder functions logically
 - 2026-09-25 15:15 - refactor: drop dead code
 - 2026-09-25 16:33 - chore: reorganize docs folder
+- 2026-09-25 17:08 - docs: clarify installation steps
