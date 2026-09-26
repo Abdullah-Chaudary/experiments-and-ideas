@@ -260,3 +260,4 @@
 - 2026-09-25 17:08 - docs: clarify installation steps
 - 2026-09-26 10:56 - feat: expose new utility function
 - 2026-09-26 11:44 - perf: skip redundant checks
+- 2026-09-26 12:06 - refactor: reorder functions logically
