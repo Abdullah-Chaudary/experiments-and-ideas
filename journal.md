@@ -263,3 +263,4 @@
 - 2026-09-26 12:06 - refactor: reorder functions logically
 - 2026-09-26 13:15 - fix: resolve null pointer on empty input
 - 2026-09-27 09:02 - test: cover rollback path
+- 2026-09-27 09:27 - refactor: clean up test fixtures
