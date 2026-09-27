@@ -268,3 +268,4 @@
 - 2026-09-27 10:28 - feat: support env-based config
 - 2026-09-27 11:06 - test: cover empty-input scenarios
 - 2026-09-27 11:49 - build: add reproducible build script
+- 2026-09-27 12:42 - refactor: extract shared helper
