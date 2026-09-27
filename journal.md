@@ -271,3 +271,4 @@
 - 2026-09-27 12:42 - refactor: extract shared helper
 - 2026-09-27 13:41 - chore: bump base image tag
 - 2026-09-27 14:21 - security: rotate stored secrets
+- 2026-09-27 15:08 - feat: add settings persistence
