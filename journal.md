@@ -267,3 +267,4 @@
 - 2026-09-27 09:56 - perf: skip redundant checks
 - 2026-09-27 10:28 - feat: support env-based config
 - 2026-09-27 11:06 - test: cover empty-input scenarios
+- 2026-09-27 11:49 - build: add reproducible build script
