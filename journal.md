@@ -265,3 +265,4 @@
 - 2026-09-27 09:02 - test: cover rollback path
 - 2026-09-27 09:27 - refactor: clean up test fixtures
 - 2026-09-27 09:56 - perf: skip redundant checks
+- 2026-09-27 10:28 - feat: support env-based config
