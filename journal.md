@@ -279,3 +279,4 @@
 - 2026-09-28 12:22 - chore: rotate log files
 - 2026-09-28 13:01 - test: validate output format
 - 2026-09-28 13:34 - refactor: reduce duplicated logic
+- 2026-09-28 14:07 - perf: batch DB writes
