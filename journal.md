@@ -276,3 +276,4 @@
 - 2026-09-28 10:30 - fix: normalize inconsistent line endings
 - 2026-09-28 10:52 - test: add unit tests for parser
 - 2026-09-28 11:23 - docs: refine notes on async patterns
+- 2026-09-28 12:22 - chore: rotate log files
