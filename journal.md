@@ -275,3 +275,4 @@
 - 2026-09-28 09:23 - style: shorten verbose conditionals
 - 2026-09-28 10:30 - fix: normalize inconsistent line endings
 - 2026-09-28 10:52 - test: add unit tests for parser
+- 2026-09-28 11:23 - docs: refine notes on async patterns
