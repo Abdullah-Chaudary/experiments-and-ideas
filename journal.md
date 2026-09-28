@@ -278,3 +278,4 @@
 - 2026-09-28 11:23 - docs: refine notes on async patterns
 - 2026-09-28 12:22 - chore: rotate log files
 - 2026-09-28 13:01 - test: validate output format
+- 2026-09-28 13:34 - refactor: reduce duplicated logic
