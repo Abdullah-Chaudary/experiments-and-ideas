@@ -273,3 +273,4 @@
 - 2026-09-27 14:21 - security: rotate stored secrets
 - 2026-09-27 15:08 - feat: add settings persistence
 - 2026-09-28 09:23 - style: shorten verbose conditionals
+- 2026-09-28 10:30 - fix: normalize inconsistent line endings
