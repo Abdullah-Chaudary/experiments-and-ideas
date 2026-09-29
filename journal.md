@@ -282,3 +282,4 @@
 - 2026-09-28 14:07 - perf: batch DB writes
 - 2026-09-29 09:46 - test: cover rollback path
 - 2026-09-29 10:11 - wip: save intermediate progress
+- 2026-09-29 10:45 - test: add property-based checks
