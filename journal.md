@@ -281,3 +281,4 @@
 - 2026-09-28 13:34 - refactor: reduce duplicated logic
 - 2026-09-28 14:07 - perf: batch DB writes
 - 2026-09-29 09:46 - test: cover rollback path
+- 2026-09-29 10:11 - wip: save intermediate progress
