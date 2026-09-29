@@ -283,3 +283,4 @@
 - 2026-09-29 09:46 - test: cover rollback path
 - 2026-09-29 10:11 - wip: save intermediate progress
 - 2026-09-29 10:45 - test: add property-based checks
+- 2026-09-29 12:00 - test: add regression test for #123
