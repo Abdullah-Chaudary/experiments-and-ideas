@@ -285,3 +285,4 @@
 - 2026-09-29 10:45 - test: add property-based checks
 - 2026-09-29 12:00 - test: add regression test for #123
 - 2026-09-30 09:25 - test: simulate slow network
+- 2026-09-30 10:15 - fix: restore missing import
