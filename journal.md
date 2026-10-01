@@ -291,3 +291,4 @@
 - 2026-10-01 12:12 - chore: refresh CI cache key
 - 2026-10-01 13:26 - feat: add file watcher
 - 2026-10-01 14:10 - refactor: use config factory pattern
+- 2026-10-01 14:39 - fix: handle timezone edge case
