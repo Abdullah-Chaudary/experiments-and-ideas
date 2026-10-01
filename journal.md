@@ -290,3 +290,4 @@
 - 2026-10-01 11:27 - refactor: unify error handling paths
 - 2026-10-01 12:12 - chore: refresh CI cache key
 - 2026-10-01 13:26 - feat: add file watcher
+- 2026-10-01 14:10 - refactor: use config factory pattern
