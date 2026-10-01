@@ -288,3 +288,4 @@
 - 2026-09-30 10:15 - fix: restore missing import
 - 2026-10-01 10:26 - refactor: rename module for clarity
 - 2026-10-01 11:27 - refactor: unify error handling paths
+- 2026-10-01 12:12 - chore: refresh CI cache key
