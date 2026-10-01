@@ -287,3 +287,4 @@
 - 2026-09-30 09:25 - test: simulate slow network
 - 2026-09-30 10:15 - fix: restore missing import
 - 2026-10-01 10:26 - refactor: rename module for clarity
+- 2026-10-01 11:27 - refactor: unify error handling paths
