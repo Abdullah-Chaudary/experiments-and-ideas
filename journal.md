@@ -295,3 +295,4 @@
 - 2026-10-01 15:38 - docs: summarize weekly review
 - 2026-10-01 16:30 - chore: apply formatter pass
 - 2026-10-01 17:37 - refactor: centralize timestamp logic
+- 2026-10-01 18:46 - test: parametrize date tests
