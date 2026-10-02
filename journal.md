@@ -305,3 +305,4 @@
 - 2026-10-02 15:38 - fix: retry failed HTTP requests
 - 2026-10-02 16:58 - notes: record reading list update
 - 2026-10-02 17:29 - refactor: standardize log formatting
+- 2026-10-02 18:04 - feat: implement rate limiter
