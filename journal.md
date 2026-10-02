@@ -301,3 +301,4 @@
 - 2026-10-02 12:47 - test: add unit tests for parser
 - 2026-10-02 13:38 - wip: park work in progress
 - 2026-10-02 14:23 - wip: commit checkpoint before revert
+- 2026-10-02 15:13 - style: adjust naming to snake_case
