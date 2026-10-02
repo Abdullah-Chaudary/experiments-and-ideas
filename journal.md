@@ -297,3 +297,4 @@
 - 2026-10-01 17:37 - refactor: centralize timestamp logic
 - 2026-10-01 18:46 - test: parametrize date tests
 - 2026-10-01 19:21 - notes: record reading list update
+- 2026-10-02 11:51 - feat: wire up notification hook
