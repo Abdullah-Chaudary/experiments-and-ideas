@@ -310,3 +310,4 @@
 - 2026-10-03 11:20 - wip: rough draft of algorithm
 - 2026-10-05 11:48 - refactor: simplify branching logic
 - 2026-10-05 12:20 - wip: partial implementation of filter
+- 2026-10-06 10:07 - perf: optimize hot loop
