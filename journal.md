@@ -312,3 +312,4 @@
 - 2026-10-05 12:20 - wip: partial implementation of filter
 - 2026-10-06 10:07 - perf: optimize hot loop
 - 2026-10-06 10:52 - notes: compare two library approaches
+- 2026-10-06 12:10 - test: check concurrent writes
