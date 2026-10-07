@@ -319,3 +319,4 @@
 - 2026-10-06 14:08 - style: harmonize comment style
 - 2026-10-07 08:47 - refactor: invert condition for clarity
 - 2026-10-07 09:35 - wip: checkpoint current work
+- 2026-10-07 10:34 - docs: improve glossary section
