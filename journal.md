@@ -321,3 +321,4 @@
 - 2026-10-07 09:35 - wip: checkpoint current work
 - 2026-10-07 10:34 - docs: improve glossary section
 - 2026-10-07 11:23 - feat: add first-pass validation
+- 2026-10-07 12:39 - refactor: extract shared helper
