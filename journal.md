@@ -317,3 +317,4 @@
 - 2026-10-06 13:12 - security: sanitize user input
 - 2026-10-06 13:39 - chore: rotate log files
 - 2026-10-06 14:08 - style: harmonize comment style
+- 2026-10-07 08:47 - refactor: invert condition for clarity
