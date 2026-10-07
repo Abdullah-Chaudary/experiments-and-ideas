@@ -323,3 +323,4 @@
 - 2026-10-07 11:23 - feat: add first-pass validation
 - 2026-10-07 12:39 - refactor: extract shared helper
 - 2026-10-07 13:09 - refactor: drop dead code
+- 2026-10-07 13:45 - notes: brainstorm feature ideas
