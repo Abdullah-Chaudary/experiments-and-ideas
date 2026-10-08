@@ -331,3 +331,4 @@
 - 2026-10-08 11:03 - chore: rotate log files
 - 2026-10-08 12:21 - fix: validate date range before parse
 - 2026-10-08 13:30 - notes: capture debugging checklist
+- 2026-10-08 14:34 - feat: add template rendering
