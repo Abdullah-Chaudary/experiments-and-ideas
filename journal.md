@@ -329,3 +329,4 @@
 - 2026-10-07 16:21 - chore: reorganize docs folder
 - 2026-10-08 10:29 - perf: avoid full array scans
 - 2026-10-08 11:03 - chore: rotate log files
+- 2026-10-08 12:21 - fix: validate date range before parse
