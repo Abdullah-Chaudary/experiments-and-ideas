@@ -328,3 +328,4 @@
 - 2026-10-07 15:51 - build: fix failing stage
 - 2026-10-07 16:21 - chore: reorganize docs folder
 - 2026-10-08 10:29 - perf: avoid full array scans
+- 2026-10-08 11:03 - chore: rotate log files
