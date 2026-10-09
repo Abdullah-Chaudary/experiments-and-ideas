@@ -340,3 +340,4 @@
 - 2026-10-09 13:51 - chore: apply formatter pass
 - 2026-10-09 14:13 - feat: log structured events
 - 2026-10-09 14:57 - refactor: extract shared helper
+- 2026-10-09 15:57 - refactor: tidy up module boundaries
