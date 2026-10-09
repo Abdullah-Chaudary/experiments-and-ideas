@@ -337,3 +337,4 @@
 - 2026-10-08 16:37 - security: tighten file permissions
 - 2026-10-09 11:46 - style: fix inconsistent quotes
 - 2026-10-09 13:03 - chore: refresh lockfile
+- 2026-10-09 13:51 - chore: apply formatter pass
