@@ -344,3 +344,4 @@
 - 2026-10-11 12:46 - docs: rewrite getting-started guide
 - 2026-10-11 13:59 - feat: scaffold new module skeleton
 - 2026-10-11 14:24 - notes: capture debugging checklist
+- 2026-10-11 14:45 - chore: adopt new lint preset
