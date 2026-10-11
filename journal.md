@@ -341,3 +341,4 @@
 - 2026-10-09 14:13 - feat: log structured events
 - 2026-10-09 14:57 - refactor: extract shared helper
 - 2026-10-09 15:57 - refactor: tidy up module boundaries
+- 2026-10-11 12:46 - docs: rewrite getting-started guide
