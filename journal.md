@@ -348,3 +348,4 @@
 - 2026-10-11 15:08 - fix: avoid stale cache reads
 - 2026-10-11 16:14 - build: parallelize build steps
 - 2026-10-12 19:46 - docs: clean up outdated examples
+- 2026-10-12 20:47 - perf: cache repeated lookups
