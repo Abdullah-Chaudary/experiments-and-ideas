@@ -352,3 +352,4 @@
 - 2026-10-12 21:16 - feat: add first-pass validation
 - 2026-10-12 22:30 - notes: log experiment results
 - 2026-10-12 22:52 - test: extend coverage for config
+- 2026-10-13 00:06 - chore: adopt new lint preset
