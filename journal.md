@@ -353,3 +353,4 @@
 - 2026-10-12 22:30 - notes: log experiment results
 - 2026-10-12 22:52 - test: extend coverage for config
 - 2026-10-13 00:06 - chore: adopt new lint preset
+- 2026-10-13 11:01 - docs: clean up outdated examples
