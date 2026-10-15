@@ -360,3 +360,4 @@
 - 2026-10-15 14:47 - wip: sync local branch state
 - 2026-10-15 16:03 - feat: add interactive prompt flow
 - 2026-10-15 16:50 - style: consistent error message case
+- 2026-10-15 17:13 - feat: support multiple output formats
