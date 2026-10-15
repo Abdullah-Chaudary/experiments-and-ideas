@@ -362,3 +362,4 @@
 - 2026-10-15 16:50 - style: consistent error message case
 - 2026-10-15 17:13 - feat: support multiple output formats
 - 2026-10-15 18:18 - docs: expand FAQ coverage
+- 2026-10-15 19:23 - chore: refresh CI cache key
