@@ -356,3 +356,4 @@
 - 2026-10-13 11:01 - docs: clean up outdated examples
 - 2026-10-13 11:45 - perf: cache repeated lookups
 - 2026-10-15 12:57 - wip: checkpoint current work
+- 2026-10-15 14:11 - docs: summarize weekly review
