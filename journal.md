@@ -364,3 +364,4 @@
 - 2026-10-15 18:18 - docs: expand FAQ coverage
 - 2026-10-15 19:23 - chore: refresh CI cache key
 - 2026-10-16 12:59 - style: shorten verbose conditionals
+- 2026-10-16 13:58 - chore: pin reproducible builds
