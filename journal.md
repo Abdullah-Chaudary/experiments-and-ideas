@@ -368,3 +368,4 @@
 - 2026-10-16 14:50 - style: unify error casing
 - 2026-10-16 15:43 - style: unify list punctuation
 - 2026-10-16 16:49 - chore: adopt new lint preset
+- 2026-10-16 17:12 - fix: reset state between runs
