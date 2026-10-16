@@ -365,3 +365,4 @@
 - 2026-10-15 19:23 - chore: refresh CI cache key
 - 2026-10-16 12:59 - style: shorten verbose conditionals
 - 2026-10-16 13:58 - chore: pin reproducible builds
+- 2026-10-16 14:50 - style: unify error casing
