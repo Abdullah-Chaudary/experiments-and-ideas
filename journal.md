@@ -366,3 +366,4 @@
 - 2026-10-16 12:59 - style: shorten verbose conditionals
 - 2026-10-16 13:58 - chore: pin reproducible builds
 - 2026-10-16 14:50 - style: unify error casing
+- 2026-10-16 15:43 - style: unify list punctuation
