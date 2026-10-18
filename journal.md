@@ -374,3 +374,4 @@
 - 2026-10-16 18:48 - test: reproduce reported bug
 - 2026-10-18 11:37 - fix: normalize inconsistent line endings
 - 2026-10-18 12:06 - docs: add troubleshooting section
+- 2026-10-18 12:48 - perf: cache repeated lookups
