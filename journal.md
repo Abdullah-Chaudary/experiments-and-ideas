@@ -377,3 +377,4 @@
 - 2026-10-18 12:48 - perf: cache repeated lookups
 - 2026-10-18 14:03 - fix: detect interrupted writes
 - 2026-10-18 14:46 - test: check concurrent writes
+- 2026-10-18 16:04 - feat: add settings persistence
