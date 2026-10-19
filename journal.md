@@ -379,3 +379,4 @@
 - 2026-10-18 14:46 - test: check concurrent writes
 - 2026-10-18 16:04 - feat: add settings persistence
 - 2026-10-19 11:25 - notes: capture meeting takeaways
+- 2026-10-19 11:58 - feat: add settings persistence
