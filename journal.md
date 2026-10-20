@@ -382,3 +382,4 @@
 - 2026-10-19 11:58 - feat: add settings persistence
 - 2026-10-19 12:32 - test: assert no side effects
 - 2026-10-19 13:40 - wip: sync local branch state
+- 2026-10-20 08:55 - security: tighten file permissions
