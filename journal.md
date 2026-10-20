@@ -383,3 +383,4 @@
 - 2026-10-19 12:32 - test: assert no side effects
 - 2026-10-19 13:40 - wip: sync local branch state
 - 2026-10-20 08:55 - security: tighten file permissions
+- 2026-10-20 09:16 - docs: rewrite getting-started guide
