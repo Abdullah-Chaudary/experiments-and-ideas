@@ -386,3 +386,4 @@
 - 2026-10-20 09:16 - docs: rewrite getting-started guide
 - 2026-10-20 09:49 - test: extend coverage for config
 - 2026-10-20 10:34 - refactor: reduce duplicated logic
+- 2026-10-22 10:38 - chore: update editorconfig
