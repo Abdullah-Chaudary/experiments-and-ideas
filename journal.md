@@ -392,3 +392,4 @@
 - 2026-10-23 12:00 - perf: trim redundant work
 - 2026-10-23 13:18 - fix: close resource leak on error
 - 2026-10-23 14:37 - test: confirm sorting is stable
+- 2026-10-23 15:34 - style: wrap long signatures
