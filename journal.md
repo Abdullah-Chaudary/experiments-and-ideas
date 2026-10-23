@@ -391,3 +391,4 @@
 - 2026-10-23 10:44 - docs: draft chapter on error handling
 - 2026-10-23 12:00 - perf: trim redundant work
 - 2026-10-23 13:18 - fix: close resource leak on error
+- 2026-10-23 14:37 - test: confirm sorting is stable
