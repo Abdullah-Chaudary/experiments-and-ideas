@@ -389,3 +389,4 @@
 - 2026-10-22 10:38 - chore: update editorconfig
 - 2026-10-22 11:02 - test: reproduce reported bug
 - 2026-10-23 10:44 - docs: draft chapter on error handling
+- 2026-10-23 12:00 - perf: trim redundant work
