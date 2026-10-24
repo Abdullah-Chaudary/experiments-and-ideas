@@ -395,3 +395,4 @@
 - 2026-10-23 15:34 - style: wrap long signatures
 - 2026-10-24 09:25 - test: extend coverage for config
 - 2026-10-24 10:45 - docs: expand FAQ coverage
+- 2026-10-24 11:07 - style: normalize string quoting
