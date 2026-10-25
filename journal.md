@@ -401,3 +401,4 @@
 - 2026-10-25 12:52 - notes: outline weekend study plan
 - 2026-10-25 13:21 - test: verify rollback on failure
 - 2026-10-25 14:07 - docs: reorganize topic index
+- 2026-10-25 15:25 - refactor: move constants to config
