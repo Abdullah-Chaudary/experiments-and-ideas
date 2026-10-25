@@ -399,3 +399,4 @@
 - 2026-10-24 12:08 - fix: correct regex for trailing spaces
 - 2026-10-25 11:45 - notes: plan next sprint backlog
 - 2026-10-25 12:52 - notes: outline weekend study plan
+- 2026-10-25 13:21 - test: verify rollback on failure
