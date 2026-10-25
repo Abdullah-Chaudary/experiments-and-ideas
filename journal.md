@@ -397,3 +397,4 @@
 - 2026-10-24 10:45 - docs: expand FAQ coverage
 - 2026-10-24 11:07 - style: normalize string quoting
 - 2026-10-24 12:08 - fix: correct regex for trailing spaces
+- 2026-10-25 11:45 - notes: plan next sprint backlog
