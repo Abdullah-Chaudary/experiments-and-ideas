@@ -403,3 +403,4 @@
 - 2026-10-25 14:07 - docs: reorganize topic index
 - 2026-10-25 15:25 - refactor: move constants to config
 - 2026-10-25 16:18 - perf: trim redundant work
+- 2026-10-27 10:27 - style: wrap long signatures
