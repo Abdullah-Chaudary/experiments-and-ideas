@@ -404,3 +404,4 @@
 - 2026-10-25 15:25 - refactor: move constants to config
 - 2026-10-25 16:18 - perf: trim redundant work
 - 2026-10-27 10:27 - style: wrap long signatures
+- 2026-10-27 11:35 - security: rotate stored secrets
