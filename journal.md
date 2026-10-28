@@ -408,3 +408,4 @@
 - 2026-10-28 10:43 - build: add reproducible build script
 - 2026-10-28 11:31 - test: snapshot serializer output
 - 2026-10-28 12:49 - style: align table columns
+- 2026-10-28 13:51 - chore: archive old notes
