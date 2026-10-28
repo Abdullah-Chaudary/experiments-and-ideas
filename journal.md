@@ -406,3 +406,4 @@
 - 2026-10-27 10:27 - style: wrap long signatures
 - 2026-10-27 11:35 - security: rotate stored secrets
 - 2026-10-28 10:43 - build: add reproducible build script
+- 2026-10-28 11:31 - test: snapshot serializer output
