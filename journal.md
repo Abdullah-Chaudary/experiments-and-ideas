@@ -411,3 +411,4 @@
 - 2026-10-28 13:51 - chore: archive old notes
 - 2026-10-28 14:14 - test: assert stable ordering
 - 2026-10-28 14:50 - feat: introduce event emitter
+- 2026-10-28 15:20 - docs: update project README
