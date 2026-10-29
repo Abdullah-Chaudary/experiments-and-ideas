@@ -420,3 +420,4 @@
 - 2026-10-29 16:17 - chore: update editorconfig
 - 2026-10-29 16:52 - feat: add graceful shutdown
 - 2026-10-29 18:05 - notes: capture meeting takeaways
+- 2026-10-29 18:33 - fix: validate date range before parse
