@@ -414,3 +414,4 @@
 - 2026-10-28 15:20 - docs: update project README
 - 2026-10-29 12:49 - docs: link related topics
 - 2026-10-29 13:51 - notes: log experiment results
+- 2026-10-29 14:14 - fix: reset state between runs
