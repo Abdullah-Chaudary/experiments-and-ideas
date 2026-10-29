@@ -417,3 +417,4 @@
 - 2026-10-29 14:14 - fix: reset state between runs
 - 2026-10-29 14:44 - test: validate output format
 - 2026-10-29 15:16 - build: parallelize build steps
+- 2026-10-29 16:17 - chore: update editorconfig
