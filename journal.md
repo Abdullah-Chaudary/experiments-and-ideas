@@ -426,3 +426,4 @@
 - 2026-10-30 15:05 - docs: summarize weekly review
 - 2026-10-30 15:31 - refactor: invert condition for clarity
 - 2026-10-30 16:40 - refactor: simplify branching logic
+- 2026-10-30 17:23 - fix: correct off-by-one in index loop
