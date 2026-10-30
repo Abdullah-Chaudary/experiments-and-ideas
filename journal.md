@@ -429,3 +429,4 @@
 - 2026-10-30 17:23 - fix: correct off-by-one in index loop
 - 2026-10-30 18:23 - style: convert tabs to spaces
 - 2026-10-30 19:28 - feat: add batch processing mode
+- 2026-10-30 19:53 - feat: build search filter builder
