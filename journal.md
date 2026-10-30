@@ -424,3 +424,4 @@
 - 2026-10-29 19:07 - wip: partial implementation of filter
 - 2026-10-30 13:53 - refactor: rename ambiguous variables
 - 2026-10-30 15:05 - docs: summarize weekly review
+- 2026-10-30 15:31 - refactor: invert condition for clarity
