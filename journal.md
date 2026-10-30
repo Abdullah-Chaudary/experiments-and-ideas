@@ -422,3 +422,4 @@
 - 2026-10-29 18:05 - notes: capture meeting takeaways
 - 2026-10-29 18:33 - fix: validate date range before parse
 - 2026-10-29 19:07 - wip: partial implementation of filter
+- 2026-10-30 13:53 - refactor: rename ambiguous variables
