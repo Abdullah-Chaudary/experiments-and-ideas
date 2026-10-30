@@ -428,3 +428,4 @@
 - 2026-10-30 16:40 - refactor: simplify branching logic
 - 2026-10-30 17:23 - fix: correct off-by-one in index loop
 - 2026-10-30 18:23 - style: convert tabs to spaces
+- 2026-10-30 19:28 - feat: add batch processing mode
