@@ -442,3 +442,4 @@
 - 2026-11-01 18:42 - perf: avoid full array scans
 - 2026-11-01 19:32 - chore: adopt new lint preset
 - 2026-11-01 20:01 - style: standardize spacing
+- 2026-11-01 20:31 - docs: update contribution guidelines
