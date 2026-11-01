@@ -440,3 +440,4 @@
 - 2026-11-01 17:38 - refactor: rename module for clarity
 - 2026-11-01 18:13 - wip: checkpoint current work
 - 2026-11-01 18:42 - perf: avoid full array scans
+- 2026-11-01 19:32 - chore: adopt new lint preset
