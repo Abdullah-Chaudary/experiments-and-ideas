@@ -436,3 +436,4 @@
 - 2026-11-01 13:57 - fix: correct timestamp formatting
 - 2026-11-01 15:10 - perf: optimize hot loop
 - 2026-11-01 15:45 - perf: lazy-load heavy modules
+- 2026-11-01 16:50 - security: restrict CORS origins
