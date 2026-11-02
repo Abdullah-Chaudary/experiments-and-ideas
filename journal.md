@@ -450,3 +450,4 @@
 - 2026-11-02 19:03 - wip: commit checkpoint before revert
 - 2026-11-02 20:01 - perf: optimize hot loop
 - 2026-11-02 20:27 - notes: brainstorm feature ideas
+- 2026-11-02 21:19 - security: sanitize user input
