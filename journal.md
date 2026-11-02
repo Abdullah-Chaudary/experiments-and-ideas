@@ -443,3 +443,4 @@
 - 2026-11-01 19:32 - chore: adopt new lint preset
 - 2026-11-01 20:01 - style: standardize spacing
 - 2026-11-01 20:31 - docs: update contribution guidelines
+- 2026-11-02 16:34 - docs: expand FAQ coverage
