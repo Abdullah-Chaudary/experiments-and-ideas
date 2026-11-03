@@ -458,3 +458,4 @@
 - 2026-11-03 13:11 - feat: support env-based config
 - 2026-11-03 14:08 - wip: checkpoint current work
 - 2026-11-03 14:48 - test: assert no side effects
+- 2026-11-03 15:44 - wip: commit checkpoint before revert
