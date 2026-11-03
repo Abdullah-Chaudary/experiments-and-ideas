@@ -454,3 +454,4 @@
 - 2026-11-02 22:22 - build: split config into layers
 - 2026-11-02 23:35 - style: shorten verbose conditionals
 - 2026-11-03 00:28 - notes: capture meeting takeaways
+- 2026-11-03 12:32 - docs: expand FAQ coverage
