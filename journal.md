@@ -464,3 +464,4 @@
 - 2026-11-04 11:25 - chore: final cleanup pass
 - 2026-11-04 12:05 - fix: guard against division by zero
 - 2026-11-04 13:01 - chore: update license header
+- 2026-11-04 14:20 - test: ensure idempotent runs
