@@ -469,3 +469,4 @@
 - 2026-11-04 15:54 - refactor: centralize timestamp logic
 - 2026-11-04 16:44 - style: group related statements
 - 2026-11-04 17:44 - style: consistent error message case
+- 2026-11-04 18:12 - refactor: standardize log formatting
