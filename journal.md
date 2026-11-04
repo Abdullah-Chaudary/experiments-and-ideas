@@ -466,3 +466,4 @@
 - 2026-11-04 13:01 - chore: update license header
 - 2026-11-04 14:20 - test: ensure idempotent runs
 - 2026-11-04 15:32 - style: align chained calls
+- 2026-11-04 15:54 - refactor: centralize timestamp logic
