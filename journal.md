@@ -468,3 +468,4 @@
 - 2026-11-04 15:32 - style: align chained calls
 - 2026-11-04 15:54 - refactor: centralize timestamp logic
 - 2026-11-04 16:44 - style: group related statements
+- 2026-11-04 17:44 - style: consistent error message case
