@@ -461,3 +461,4 @@
 - 2026-11-03 15:44 - wip: commit checkpoint before revert
 - 2026-11-03 16:13 - perf: optimize hot loop
 - 2026-11-03 17:28 - notes: brainstorm feature ideas
+- 2026-11-04 11:25 - chore: final cleanup pass
