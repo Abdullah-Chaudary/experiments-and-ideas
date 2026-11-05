@@ -470,3 +470,4 @@
 - 2026-11-04 16:44 - style: group related statements
 - 2026-11-04 17:44 - style: consistent error message case
 - 2026-11-04 18:12 - refactor: standardize log formatting
+- 2026-11-05 09:04 - perf: cache repeated lookups
