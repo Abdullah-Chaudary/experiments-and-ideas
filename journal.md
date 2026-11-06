@@ -472,3 +472,4 @@
 - 2026-11-04 18:12 - refactor: standardize log formatting
 - 2026-11-05 09:04 - perf: cache repeated lookups
 - 2026-11-06 08:20 - fix: restore missing import
+- 2026-11-06 09:15 - style: normalize string quoting
