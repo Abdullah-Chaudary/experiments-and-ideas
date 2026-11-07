@@ -475,3 +475,4 @@
 - 2026-11-06 09:15 - style: normalize string quoting
 - 2026-11-07 09:38 - fix: normalize inconsistent line endings
 - 2026-11-07 10:16 - docs: update contribution guidelines
+- 2026-11-07 10:58 - chore: update linter rules
