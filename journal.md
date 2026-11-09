@@ -477,3 +477,4 @@
 - 2026-11-07 10:16 - docs: update contribution guidelines
 - 2026-11-07 10:58 - chore: update linter rules
 - 2026-11-07 11:28 - refactor: simplify nested conditionals
+- 2026-11-09 22:50 - style: convert tabs to spaces
