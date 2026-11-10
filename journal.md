@@ -480,3 +480,4 @@
 - 2026-11-09 22:50 - style: convert tabs to spaces
 - 2026-11-09 23:46 - notes: log experiment results
 - 2026-11-10 00:32 - chore: update license header
+- 2026-11-10 01:09 - test: mock external service calls
