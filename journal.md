@@ -486,3 +486,4 @@
 - 2026-11-10 12:17 - chore: update license header
 - 2026-11-11 16:50 - notes: outline weekend study plan
 - 2026-11-11 17:39 - build: parallelize build steps
+- 2026-11-11 18:59 - refactor: replace callbacks with promises
