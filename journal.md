@@ -491,3 +491,4 @@
 - 2026-11-11 20:40 - feat: add config validation helper
 - 2026-11-11 21:37 - test: assert stable ordering
 - 2026-11-11 22:05 - wip: commit checkpoint before revert
+- 2026-11-11 22:51 - refactor: drop dead code
