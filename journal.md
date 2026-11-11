@@ -484,3 +484,4 @@
 - 2026-11-10 11:24 - style: convert tabs to spaces
 - 2026-11-10 11:49 - notes: log experiment results
 - 2026-11-10 12:17 - chore: update license header
+- 2026-11-11 16:50 - notes: outline weekend study plan
