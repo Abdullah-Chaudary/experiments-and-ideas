@@ -490,3 +490,4 @@
 - 2026-11-11 19:55 - test: parametrize date tests
 - 2026-11-11 20:40 - feat: add config validation helper
 - 2026-11-11 21:37 - test: assert stable ordering
+- 2026-11-11 22:05 - wip: commit checkpoint before revert
