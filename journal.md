@@ -492,3 +492,4 @@
 - 2026-11-11 21:37 - test: assert stable ordering
 - 2026-11-11 22:05 - wip: commit checkpoint before revert
 - 2026-11-11 22:51 - refactor: drop dead code
+- 2026-11-12 00:00 - refactor: standardize log formatting
