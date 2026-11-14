@@ -496,3 +496,4 @@
 - 2026-11-12 09:28 - notes: outline weekend study plan
 - 2026-11-13 10:16 - notes: review yesterday's progress
 - 2026-11-14 09:28 - notes: document API endpoint table
+- 2026-11-14 10:03 - test: validate output format
