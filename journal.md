@@ -499,3 +499,4 @@
 - 2026-11-14 10:03 - test: validate output format
 - 2026-11-14 10:37 - refactor: streamline initialization flow
 - 2026-11-14 11:43 - style: normalize indent width
+- 2026-11-14 12:49 - style: align chained calls
