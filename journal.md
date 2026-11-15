@@ -501,3 +501,4 @@
 - 2026-11-14 11:43 - style: normalize indent width
 - 2026-11-14 12:49 - style: align chained calls
 - 2026-11-14 13:56 - style: sort imports alphabetically
+- 2026-11-15 09:03 - chore: update linter rules
