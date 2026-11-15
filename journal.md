@@ -503,3 +503,4 @@
 - 2026-11-14 13:56 - style: sort imports alphabetically
 - 2026-11-15 09:03 - chore: update linter rules
 - 2026-11-15 09:42 - feat: scaffold new module skeleton
+- 2026-11-15 10:03 - feat: wire up notification hook
