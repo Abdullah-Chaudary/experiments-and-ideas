@@ -508,3 +508,4 @@
 - 2026-11-15 11:05 - feat: support env-based config
 - 2026-11-15 11:29 - docs: fill in missing references
 - 2026-11-15 12:08 - feat: expose new utility function
+- 2026-11-15 12:32 - refactor: rename ambiguous variables
