@@ -504,3 +504,4 @@
 - 2026-11-15 09:03 - chore: update linter rules
 - 2026-11-15 09:42 - feat: scaffold new module skeleton
 - 2026-11-15 10:03 - feat: wire up notification hook
+- 2026-11-15 10:43 - chore: refresh lockfile
