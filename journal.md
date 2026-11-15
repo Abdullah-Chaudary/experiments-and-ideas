@@ -505,3 +505,4 @@
 - 2026-11-15 09:42 - feat: scaffold new module skeleton
 - 2026-11-15 10:03 - feat: wire up notification hook
 - 2026-11-15 10:43 - chore: refresh lockfile
+- 2026-11-15 11:05 - feat: support env-based config
