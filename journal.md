@@ -510,3 +510,4 @@
 - 2026-11-15 12:08 - feat: expose new utility function
 - 2026-11-15 12:32 - refactor: rename ambiguous variables
 - 2026-11-16 21:47 - chore: tidy workspace settings
+- 2026-11-16 22:50 - docs: summarize weekly review
