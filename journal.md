@@ -509,3 +509,4 @@
 - 2026-11-15 11:29 - docs: fill in missing references
 - 2026-11-15 12:08 - feat: expose new utility function
 - 2026-11-15 12:32 - refactor: rename ambiguous variables
+- 2026-11-16 21:47 - chore: tidy workspace settings
