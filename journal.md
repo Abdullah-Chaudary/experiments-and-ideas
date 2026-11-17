@@ -511,3 +511,4 @@
 - 2026-11-15 12:32 - refactor: rename ambiguous variables
 - 2026-11-16 21:47 - chore: tidy workspace settings
 - 2026-11-16 22:50 - docs: summarize weekly review
+- 2026-11-17 00:02 - chore: add .gitignore entries
