@@ -512,3 +512,4 @@
 - 2026-11-16 21:47 - chore: tidy workspace settings
 - 2026-11-16 22:50 - docs: summarize weekly review
 - 2026-11-17 00:02 - chore: add .gitignore entries
+- 2026-11-17 00:45 - test: extend coverage for config
