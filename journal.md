@@ -522,3 +522,4 @@
 - 2026-11-18 13:07 - notes: review yesterday's progress
 - 2026-11-18 13:34 - style: fix inconsistent quotes
 - 2026-11-18 14:04 - feat: implement retry logic
+- 2026-11-18 14:47 - refactor: consolidate type guards
