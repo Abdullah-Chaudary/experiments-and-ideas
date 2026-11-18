@@ -515,3 +515,4 @@
 - 2026-11-17 00:45 - test: extend coverage for config
 - 2026-11-17 01:32 - chore: archive old notes
 - 2026-11-18 09:13 - refactor: use config factory pattern
+- 2026-11-18 10:16 - fix: skip empty files during scan
