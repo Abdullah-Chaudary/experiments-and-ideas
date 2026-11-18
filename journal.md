@@ -519,3 +519,4 @@
 - 2026-11-18 10:48 - fix: handle timezone edge case
 - 2026-11-18 11:26 - feat: add graceful shutdown
 - 2026-11-18 12:22 - test: cover rollback path
+- 2026-11-18 13:07 - notes: review yesterday's progress
