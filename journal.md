@@ -517,3 +517,4 @@
 - 2026-11-18 09:13 - refactor: use config factory pattern
 - 2026-11-18 10:16 - fix: skip empty files during scan
 - 2026-11-18 10:48 - fix: handle timezone edge case
+- 2026-11-18 11:26 - feat: add graceful shutdown
