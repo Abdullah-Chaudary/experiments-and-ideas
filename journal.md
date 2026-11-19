@@ -527,3 +527,4 @@
 - 2026-11-19 18:46 - docs: polish changelog entries
 - 2026-11-19 20:02 - fix: fix broken anchor links
 - 2026-11-19 20:48 - notes: capture meeting takeaways
+- 2026-11-19 21:52 - perf: cache repeated lookups
