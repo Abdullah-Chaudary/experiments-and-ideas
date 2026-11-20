@@ -538,3 +538,4 @@
 - 2026-11-20 10:22 - notes: capture meeting takeaways
 - 2026-11-20 11:13 - perf: cache repeated lookups
 - 2026-11-20 11:37 - notes: log experiment results
+- 2026-11-20 12:52 - test: verify rollback on failure
