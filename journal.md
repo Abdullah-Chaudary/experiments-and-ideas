@@ -535,3 +535,4 @@
 - 2026-11-20 08:22 - notes: outline weekend study plan
 - 2026-11-20 09:00 - docs: polish changelog entries
 - 2026-11-20 09:43 - fix: fix broken anchor links
+- 2026-11-20 10:22 - notes: capture meeting takeaways
