@@ -534,3 +534,4 @@
 - 2026-11-20 00:16 - style: standardize spacing
 - 2026-11-20 08:22 - notes: outline weekend study plan
 - 2026-11-20 09:00 - docs: polish changelog entries
+- 2026-11-20 09:43 - fix: fix broken anchor links
