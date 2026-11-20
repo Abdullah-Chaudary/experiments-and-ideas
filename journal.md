@@ -541,3 +541,4 @@
 - 2026-11-20 12:52 - test: verify rollback on failure
 - 2026-11-20 13:41 - chore: apply formatter pass
 - 2026-11-20 14:03 - style: standardize spacing
+- 2026-11-20 14:51 - feat: add pagination support
