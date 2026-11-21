@@ -546,3 +546,4 @@
 - 2026-11-21 10:35 - build: split config into layers
 - 2026-11-21 11:16 - refactor: drop dead code
 - 2026-11-21 11:55 - refactor: centralize timestamp logic
+- 2026-11-21 12:38 - perf: optimize hot loop
