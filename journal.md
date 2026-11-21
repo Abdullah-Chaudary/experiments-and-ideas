@@ -543,3 +543,4 @@
 - 2026-11-20 14:03 - style: standardize spacing
 - 2026-11-20 14:51 - feat: add pagination support
 - 2026-11-20 15:45 - wip: save intermediate progress
+- 2026-11-21 10:35 - build: split config into layers
