@@ -550,3 +550,4 @@
 - 2026-11-22 12:38 - fix: guard against division by zero
 - 2026-11-22 13:05 - chore: update linter rules
 - 2026-11-22 14:13 - fix: correct timestamp formatting
+- 2026-11-22 15:22 - chore: bump base image tag
