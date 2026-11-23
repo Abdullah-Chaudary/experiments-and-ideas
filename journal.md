@@ -554,3 +554,4 @@
 - 2026-11-22 15:55 - style: standardize spacing
 - 2026-11-22 16:56 - test: mock external service calls
 - 2026-11-23 20:59 - build: split config into layers
+- 2026-11-23 22:18 - chore: adopt new lint preset
