@@ -553,3 +553,4 @@
 - 2026-11-22 15:22 - chore: bump base image tag
 - 2026-11-22 15:55 - style: standardize spacing
 - 2026-11-22 16:56 - test: mock external service calls
+- 2026-11-23 20:59 - build: split config into layers
