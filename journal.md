@@ -565,3 +565,4 @@
 - 2026-11-24 17:38 - fix: correct regex for trailing spaces
 - 2026-11-24 18:47 - fix: correct off-by-one in index loop
 - 2026-11-24 19:38 - fix: guard against division by zero
+- 2026-11-24 20:09 - chore: reorganize docs folder
