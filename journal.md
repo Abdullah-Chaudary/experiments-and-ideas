@@ -558,3 +558,4 @@
 - 2026-11-23 23:18 - docs: add usage examples
 - 2026-11-23 23:40 - test: add property-based checks
 - 2026-11-24 00:12 - test: add regression test for #123
+- 2026-11-24 00:46 - build: cache intermediate artifacts
