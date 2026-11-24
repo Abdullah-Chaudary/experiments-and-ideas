@@ -562,3 +562,4 @@
 - 2026-11-24 01:36 - fix: handle missing keys gracefully
 - 2026-11-24 02:42 - refactor: tidy up module boundaries
 - 2026-11-24 03:46 - refactor: drop dead code
+- 2026-11-24 17:38 - fix: correct regex for trailing spaces
