@@ -567,3 +567,4 @@
 - 2026-11-24 19:38 - fix: guard against division by zero
 - 2026-11-24 20:09 - chore: reorganize docs folder
 - 2026-11-24 21:28 - chore: adopt new lint preset
+- 2026-11-24 22:33 - chore: initialize repo structure
