@@ -561,3 +561,4 @@
 - 2026-11-24 00:46 - build: cache intermediate artifacts
 - 2026-11-24 01:36 - fix: handle missing keys gracefully
 - 2026-11-24 02:42 - refactor: tidy up module boundaries
+- 2026-11-24 03:46 - refactor: drop dead code
