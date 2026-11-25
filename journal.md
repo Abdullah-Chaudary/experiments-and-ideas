@@ -572,3 +572,4 @@
 - 2026-11-25 00:14 - build: add reproducible build script
 - 2026-11-25 00:34 - chore: prune unused deps
 - 2026-11-25 01:53 - test: validate output format
+- 2026-11-25 19:25 - fix: resolve null pointer on empty input
