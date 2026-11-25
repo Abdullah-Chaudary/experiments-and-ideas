@@ -576,3 +576,4 @@
 - 2026-11-25 19:50 - notes: document API endpoint table
 - 2026-11-25 20:32 - feat: support env-based config
 - 2026-11-25 21:03 - security: tighten file permissions
+- 2026-11-25 22:06 - style: convert tabs to spaces
