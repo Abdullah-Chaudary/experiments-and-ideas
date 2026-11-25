@@ -569,3 +569,4 @@
 - 2026-11-24 21:28 - chore: adopt new lint preset
 - 2026-11-24 22:33 - chore: initialize repo structure
 - 2026-11-24 23:30 - chore: bump dependency versions
+- 2026-11-25 00:14 - build: add reproducible build script
