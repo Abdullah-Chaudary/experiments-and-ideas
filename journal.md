@@ -579,3 +579,4 @@
 - 2026-11-25 22:06 - style: convert tabs to spaces
 - 2026-11-25 22:57 - chore: initialize repo structure
 - 2026-11-25 23:17 - security: restrict CORS origins
+- 2026-11-25 23:43 - wip: partial implementation of filter
