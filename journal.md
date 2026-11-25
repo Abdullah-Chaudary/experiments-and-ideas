@@ -574,3 +574,4 @@
 - 2026-11-25 01:53 - test: validate output format
 - 2026-11-25 19:25 - fix: resolve null pointer on empty input
 - 2026-11-25 19:50 - notes: document API endpoint table
+- 2026-11-25 20:32 - feat: support env-based config
