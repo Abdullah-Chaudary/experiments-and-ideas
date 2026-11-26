@@ -582,3 +582,4 @@
 - 2026-11-25 23:43 - wip: partial implementation of filter
 - 2026-11-26 00:48 - chore: pin reproducible builds
 - 2026-11-26 01:31 - docs: refine notes on async patterns
+- 2026-11-26 22:39 - wip: stage exploratory change
