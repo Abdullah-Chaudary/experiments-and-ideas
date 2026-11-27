@@ -593,3 +593,4 @@
 - 2026-11-27 18:39 - fix: avoid stale cache reads
 - 2026-11-27 19:54 - docs: rewrite getting-started guide
 - 2026-11-27 20:29 - test: add regression test for #123
+- 2026-11-27 21:36 - feat: add batch processing mode
