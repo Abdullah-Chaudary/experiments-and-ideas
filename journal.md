@@ -585,3 +585,4 @@
 - 2026-11-26 22:39 - wip: stage exploratory change
 - 2026-11-26 23:26 - fix: handle unicode filenames
 - 2026-11-27 00:44 - refactor: replace callbacks with promises
+- 2026-11-27 01:28 - fix: detect interrupted writes
