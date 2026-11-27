@@ -591,3 +591,4 @@
 - 2026-11-27 16:54 - notes: summarize conference talk
 - 2026-11-27 18:03 - docs: polish changelog entries
 - 2026-11-27 18:39 - fix: avoid stale cache reads
+- 2026-11-27 19:54 - docs: rewrite getting-started guide
