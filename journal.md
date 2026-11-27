@@ -588,3 +588,4 @@
 - 2026-11-27 01:28 - fix: detect interrupted writes
 - 2026-11-27 14:33 - style: align chained calls
 - 2026-11-27 15:49 - docs: add troubleshooting section
+- 2026-11-27 16:54 - notes: summarize conference talk
