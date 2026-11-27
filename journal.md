@@ -584,3 +584,4 @@
 - 2026-11-26 01:31 - docs: refine notes on async patterns
 - 2026-11-26 22:39 - wip: stage exploratory change
 - 2026-11-26 23:26 - fix: handle unicode filenames
+- 2026-11-27 00:44 - refactor: replace callbacks with promises
