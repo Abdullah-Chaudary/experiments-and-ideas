@@ -586,3 +586,4 @@
 - 2026-11-26 23:26 - fix: handle unicode filenames
 - 2026-11-27 00:44 - refactor: replace callbacks with promises
 - 2026-11-27 01:28 - fix: detect interrupted writes
+- 2026-11-27 14:33 - style: align chained calls
