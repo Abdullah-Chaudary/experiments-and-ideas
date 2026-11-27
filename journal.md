@@ -594,3 +594,4 @@
 - 2026-11-27 19:54 - docs: rewrite getting-started guide
 - 2026-11-27 20:29 - test: add regression test for #123
 - 2026-11-27 21:36 - feat: add batch processing mode
+- 2026-11-27 22:56 - docs: update project README
