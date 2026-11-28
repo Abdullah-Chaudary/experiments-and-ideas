@@ -595,3 +595,4 @@
 - 2026-11-27 20:29 - test: add regression test for #123
 - 2026-11-27 21:36 - feat: add batch processing mode
 - 2026-11-27 22:56 - docs: update project README
+- 2026-11-28 00:03 - style: fix inconsistent quotes
