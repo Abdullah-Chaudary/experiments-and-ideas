@@ -596,3 +596,4 @@
 - 2026-11-27 21:36 - feat: add batch processing mode
 - 2026-11-27 22:56 - docs: update project README
 - 2026-11-28 00:03 - style: fix inconsistent quotes
+- 2026-11-28 01:02 - wip: stage exploratory change
